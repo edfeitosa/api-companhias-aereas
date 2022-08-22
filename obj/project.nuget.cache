@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8PGmRh6rkqa2lKtBe4ThvVFX8LZjizBnCwNNfLzcil6qrfuF0HCBj9a9lHWLg9ph3eova4U7ZhN0aSyhBVFcNg==",
+  "success": true,
+  "projectFilePath": "/Users/eduardofeitosa/Projects/NetCore/CiaAerea/CiaAerea.csproj",
+  "expectedPackageFiles": [
+    "/Users/eduardofeitosa/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/eduardofeitosa/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/eduardofeitosa/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/eduardofeitosa/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/eduardofeitosa/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/eduardofeitosa/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
