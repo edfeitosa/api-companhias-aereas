@@ -1,16 +1,23 @@
 ﻿<Properties StartupConfiguration="{AFC40A93-0B55-4FBE-8F73-216E84BFBD3E}|Default">
+  <MonoDevelop.Ide.ItemProperties.CiaAerea PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CiaAerea PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Entities/Piloto.cs">
+    <Files>
+      <File FileName="Entities/Aeronave.cs" Line="21" Column="1" />
+      <File FileName="Entities/Piloto.cs" Line="16" Column="2" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CiaAerea" expanded="True" selected="True">
-            <Node name="CiaAerea" expanded="True" />
+          <Node name="CiaAerea" expanded="True">
+            <Node name="CiaAerea" expanded="True">
+              <Node name="Entities" expanded="True" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -19,5 +26,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
 </Properties>
