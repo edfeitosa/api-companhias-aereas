@@ -17,11 +17,13 @@
     <None Remove="Entities\Enums\" />
     <None Remove="Microsoft.EntityFrameworkCore.SqlServer" />
     <None Remove="Contexts\" />
+    <None Remove="EntityConfigurations\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
     <Folder Include="Entities\" />
     <Folder Include="Entities\Enums\" />
     <Folder Include="Contexts\" />
+    <Folder Include="EntityConfigurations\" />
   </ItemGroup>
 </Project>
