@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace CiaAerea.Entities
 {
     public class Cancelamento

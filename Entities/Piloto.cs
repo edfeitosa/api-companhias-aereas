@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace CiaAerea.Entities
 {
     public class Piloto
@@ -6,6 +7,7 @@ namespace CiaAerea.Entities
         public int Id { get; set; }
         public string Nome { get; set; }
         public string Matricula { get; set; }
+        public ICollection<Voo> Voos { get; set; } = null!;
 
         public Piloto(string nome, string matricula)
         {
