@@ -12,6 +12,7 @@ namespace CiaAerea.Entities
         public int PilotoId { get; set; }
         public Aeronave Aeronave { get; set; } = null!;
         public Piloto Piloto { get; set; } = null!;
+        public Cancelamento? Cancelamento { get; set; }
 
         public Voo(string origem, string destino, DateTime dataHoraPartida, DateTime dataHoraChegada, int aeronaveId, int pilotoId, Aeronave aeronave, Piloto piloto)
         {
